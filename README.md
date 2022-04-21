@@ -4,7 +4,7 @@
 
 ## Description
 
-A MERN stack application using graphql to allow users to log in or sign up and search for books from Google books API. The user can save books and view their saved books. Deployed application:
+A MERN stack application using graphql to allow users to log in or sign up and search for books from Google books API. The user can save books and view their saved books. Deployed application: https://book-search-matt.herokuapp.com/
 
 ![Screenshot](screenshot.png)
 
